@@ -1,0 +1,229 @@
+
+Converting your isi collection into a bibliographic dataframe
+
+Articles extracted   84 
+Done!
+
+
+Generating affiliation field tag AU_UN from C1:  Done!
+
+
+
+Main Information about data
+
+ Documents                             84 
+ Sources (Journals, Books, etc.)       22 
+ Keywords Plus (ID)                    229 
+ Author's Keywords (DE)                215 
+ Period                                1992 - 2017 
+ Average citations per documents       16.25 
+
+ Authors                               186 
+ Author Appearances                    235 
+ Authors of single-authored documents  18 
+ Authors of multi-authored documents   168 
+ Single-authored documents             26 
+
+ Documents per Author                  0.452 
+ Authors per Document                  2.21 
+ Co-Authors per Documents              2.8 
+ Collaboration Index                   2.9 
+ 
+ Document types                     
+ ARTICLE       84 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    1992        1
+    1993        1
+    1996        1
+    1997        1
+    1998        2
+    1999        4
+    2000        2
+    2001        2
+    2002        4
+    2003        6
+    2005        3
+    2006        1
+    2007        3
+    2008        5
+    2009        1
+    2010        4
+    2011        4
+    2012        4
+    2013        3
+    2014        6
+    2015       15
+    2016        4
+    2017        7
+
+Annual Percentage Growth Rate 9.248013 
+
+
+Most Productive Authors
+
+    Authors        Articles  Authors        Articles Fractionalized
+1  BENBENISHTY R          7 DAVIDSON-ARAD B                    3.10
+2  DAVIDSON-ARAD B        6 KEDDELL E                          3.00
+3  BAUMANN DJ             3 BENBENISHTY R                      2.31
+4  BOGO M                 3 HELM D                             2.00
+5  DETTLAFF AJ            3 ROESCH-MARSH A                     2.00
+6  FLUKE JD               3 SALTIEL D                          2.00
+7  GRAHAM JC              3 GILLINGHAM P                       1.50
+8  KEDDELL E              3 ALFANDARI R                        1.00
+9  REGEHR C               3 ASHTON V                           1.00
+10 WOZNER Y               3 BEN-ARIEH A                        1.00
+
+
+Top manuscripts per citations
+
+                                Paper          TC TCperYear
+1  BROADHURST K, 2010, BR J SOC WORK           90     11.25
+2  BRITNER PA, 2002, CHILD ABUSE NEGL          70      4.38
+3  RIVAUX SL, 2008, CHILD WELF                 69      6.90
+4  GILLINGHAM P, 2010, BR J SOC WORK           59      7.38
+5  HARRIS MS, 2008, CHILD YOUTH SERV REV       56      5.60
+6  ARAD-DAVIDZON B, 2008, CHILD YOUTH SERV REV 56      5.60
+7  SHEPPARD M, 2000, BR J SOC WORK             53      2.94
+8  DRURY-HUDSON J, 1999, BR J SOC WORK         51      2.68
+9  CROSS TP, 2009, CHILD MALTREATMENT          49      5.44
+10 DAVIDSON-ARAD B, 2005, CHILD YOUTH SERV REV 46      3.54
+
+
+Most Productive Countries (of corresponding authors)
+
+       Country   Articles   Freq SCP MCP MCP_Ratio
+1 UNITED KINGDOM       21 0.2561  21   0    0.0000
+2 USA                  21 0.2561  20   1    0.0476
+3 ISRAEL               19 0.2317  14   5    0.2632
+4 CANADA               10 0.1220   8   2    0.2000
+5 AUSTRALIA             4 0.0488   4   0    0.0000
+6 NEW ZEALAND           3 0.0366   3   0    0.0000
+7 IRELAND               2 0.0244   2   0    0.0000
+8 JAMAICA               1 0.0122   1   0    0.0000
+9 SPAIN                 1 0.0122   1   0    0.0000
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+    Country      Total Citations Average Article Citations
+1 USA                        406                      19.3
+2 UNITED KINGDOM             332                      15.8
+3 ISRAEL                     272                      14.3
+4 AUSTRALIA                  138                      34.5
+5 CANADA                     107                      10.7
+6 IRELAND                     42                      21.0
+7 NEW ZEALAND                 32                      10.7
+8 JAMAICA                     24                      24.0
+9 SPAIN                        0                       0.0
+
+
+Most Relevant Sources
+
+                            Sources        Articles
+1  BRITISH JOURNAL OF SOCIAL WORK                17
+2  CHILD ABUSE \\& NEGLECT                       17
+3  CHILDREN AND YOUTH SERVICES REVIEW            14
+4  CHILD \\& FAMILY SOCIAL WORK                   8
+5  CHILD WELFARE                                  3
+6  JOURNAL OF SOCIAL SERVICE RESEARCH             3
+7  ADMINISTRATION IN SOCIAL WORK                  2
+8  CHILD ABUSE REVIEW                             2
+9  HEALTH \\& SOCIAL CARE IN THE COMMUNITY        2
+10 HEALTH \\& SOCIAL WORK                         2
+
+
+Most Relevant Keywords
+
+   Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
+1    CHILD PROTECTION              13    MALTREATMENT              21
+2    DECISION MAKING               13    ABUSE                     18
+3    DECISION-MAKING               11    SERVICES                  16
+4    ASSESSMENT                     9    WELFARE                   16
+5    CHILD WELFARE                  9    NEGLECT                   15
+6    RISK ASSESSMENT                7    DECISION-MAKING           13
+7    SOCIAL WORK                    6    FOSTER-CARE                9
+8    FOSTER CARE                    5    PROTECTION                 9
+9    RISK                           5    PROTECTIVE SERVICES        9
+10   CHILD ABUSE AND NEGLECT        4    SOCIAL-WORK                9
+
+Warning message:
+Removed 2 rows containing missing values (position_stack). 
+[1] "Most Cited Manuscripts"
+                                                                                          [,1]
+GOLD N, 2001, CHILD ABUSE NEGLECT, V25, P607, DOI 10.1016/S0145-2134(01)00228-9              9
+RIVAUX SL, 2008, CHILD WELFARE, V87, P151                                                    9
+ROSSI PH, 1999, EVALUATION REV, V23, P579, DOI 10.1177/0193841X9902300601                    9
+BROADHURST K, 2010, BRIT J SOC WORK, V40, P1046, DOI 10.1093/BJSW/BCQ011                     8
+MUNRO E, 1996, BRIT J SOC WORK, V26, P793                                                    8
+BAUMANN DJ, 2011, DECISION MAKING ECOL                                                       7
+BENBENISHTY R, 1992, SOC SERV REV, V66, P598, DOI 10.1086/603950                             7
+BENBENISHTY R, 2003, BRIT J SOC WORK, V33, P137, DOI 10.1093/BJSW/33.2.137                   7
+DEPANFILIS D, 1994, CHILD WELFARE, V73, P229                                                 7
+DETTLAFF AJ, 2011, CHILD YOUTH SERV REV, V33, P1630, DOI 10.1016/J.CHILDYOUTH.2011.04.005    7
+[1] "Most Cited First Authors"
+              [,1]
+BENBENISHTY R   27
+MUNRO E         26
+LINDSEY D       16
+BROADHURST K    15
+DEPANFILIS D    13
+ROSEN A         13
+COURTNEY ME     12
+DETTLAFF AJ     12
+FLUKE J. D.     11
+FLUKE JD        11
+[1] "Most Cited First Author and paper (Local)"
+Articles analysed   84 
+             Author LocalCitations
+21    BENBENISHTY R             13
+15        BAUMANN D              9
+78          HENRY J              9
+88          JAMES J              9
+90       JEFFRIES V              9
+140       RIVAUX SL              9
+152        SHEETS J              9
+185   WITTENSTROM K              9
+40  DAVIDSON-ARAD B              7
+26       BRITNER PA              6
+                                         Paper                              DOI Year LCS GCS
+35                 RIVAUX SL, 2008, CHILD WELF                             <NA> 2008   9  69
+15          BRITNER PA, 2002, CHILD ABUSE NEGL    10.1016/S0145-2134(02)00311-3 2002   6  70
+36 ARAD-DAVIDZON B, 2008, CHILD YOUTH SERV REV 10.1016/J.CHILDYOUTH.2007.07.003 2008   5  56
+17         BENBENISHTY R, 2002, J SOC SERV RES          10.1300/J079V28N03\\_01 2002   4  12
+23     DAVIDSON-ARAD B, 2003, CHILD ABUSE NEGL    10.1016/S0145-2134(03)00106-6 2003   4  16
+59           GRAHAM JC, 2015, CHILD ABUSE NEGL     10.1016/J.CHIABU.2015.02.020 2015   4  20
+19        BENBENISHTY R, 2003, HEALTH SOC WORK             10.1093/HSW/28.4.284 2003   3  22
+6      COURTNEY ME, 1998, CHILD YOUTH SERV REV    10.1016/S0190-7409(98)00008-5 1998   2  24
+31         BECKETT C, 2007, CHILD FAM SOC WORK 10.1111/J.1365-2206.2006.00437.X 2007   2  20
+37          CROSS TP, 2009, CHILD MALTREATMENT         10.1177/1077559508318400 2009   2  49
+[1] "Dominance Ranking as proposed by Kumar & Kumar (2008)"
+                Dominance Factor Multi Authored First Authored Rank by Articles Rank by DF
+BENBENISHTY R          0.7142857              7              5                1          1
+REGEHR C               0.6666667              3              2                5          2
+DAVIDSON-ARAD B        0.5000000              6              3                2          3
+GILLINGHAM P           0.5000000              2              1                6          4
+LEBLANC VR             0.5000000              2              1                7          5
+LESCHIED AW            0.5000000              2              1                8          6
+POTTICK KJ             0.5000000              2              1                9          7
+SAGI A                 0.5000000              2              1               10          8
+DETTLAFF AJ            0.3333333              3              1                3          9
+GRAHAM JC              0.3333333              3              1                4         10
+  BENBENISHTY R DAVIDSON-ARAD B       KEDDELL E        FLUKE JD       GRAHAM JC 
+              7               6               3               3               3 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+Error in cbind(df_doc, rowSums(coord_doc$contrib)) : 
+  object 'df_doc' not found
+Error in thematicEvolution(res1, res2, weighted = FALSE) : 
+  unused argument (weighted = FALSE)
